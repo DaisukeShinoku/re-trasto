@@ -1,0 +1,2 @@
+class StoryBookmark < ApplicationRecord
+end

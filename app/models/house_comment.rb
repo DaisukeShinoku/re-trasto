@@ -1,0 +1,2 @@
+class HouseComment < ApplicationRecord
+end

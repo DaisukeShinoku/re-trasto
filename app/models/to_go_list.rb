@@ -1,0 +1,2 @@
+class ToGoList < ApplicationRecord
+end
